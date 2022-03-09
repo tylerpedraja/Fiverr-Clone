@@ -1,0 +1,33 @@
+a {
+    text-decoration: none !important;
+}
+
+.text-pink {
+    color: #FF80AE;
+}
+
+.font-italic {
+    font-style: italic;
+}
+
+.background-image-1 {
+    background-image: url('../public/background.png');
+    background-size: cover;
+}
+
+.text-sm {
+    font-size: 0.8rem;
+}
+
+.product-thumbnail {
+    border-radius: 50%;
+    display: block;
+    margin-right: 5px;
+    max-width: 30px;
+}
+
+.subnav {
+    border-top: 1px solid #E4E5E7;
+    border-bottom: 1px solid #E4E5E7;
+    margin-bottom: 40px;
+}
